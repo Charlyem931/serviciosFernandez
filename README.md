@@ -1,6 +1,6 @@
 **Servicios Fernandez**
 
-**Instalación de Tailwind**
+**Instalación de Tailwind:**
 
 En tu terminal, pegar el siguiente comando:
 
